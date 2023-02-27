@@ -1,0 +1,8 @@
+.header_fixer,#layout_forsite > div.header_fixer.fixed{
+    z-index:100;
+}
+
+.modal-backdrop
+{
+    opacity:0.9 !important;
+}
